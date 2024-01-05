@@ -28,34 +28,63 @@ $boost=1,site=3abnsabbathschoolpanel.com
 $boost=1,site=3angels.ru
 $boost=1,site=666truth.org
 $boost=1,site=adventist.org
-$boost=1,site=adventistarchives.org
-$boost=1,site=adventistdigitallibrary.org
-$boost=1,site=adventistreview.tv
-$boost=1,site=adventistworld.org
+$boost=1,site=adventistbookcenter.com
 $boost=1,site=afbookstore.com
+$boost=1,site=afcoe.org
+$boost=1,site=afcoe.org.au
+$boost=1,site=afcoe-europe.com
+$boost=1,site=afcoeafrica.com
 $boost=1,site=afsummit.org
+$boost=1,site=aftv.in
 $boost=1,site=aftv.org
+$boost=1,site=afyouth.com
 $boost=1,site=amazingfacts.org
+$boost=1,site=amazingfactsindia.org
 $boost=1,site=amazingfactslatino.org
 $boost=1,site=biblegateway.com
+$boost=1,site=biblehistory.com
+$boost=1,site=bibleuniverse.com
+$boost=1,site=biblia.com
 $boost=1,site=blueletterbible.org
 $boost=1,site=cosmicconflict.com
 $boost=1,site=desiringgod.org
-$boost=1,site=egwwritings.org
-$boost=1,site=ellenwhite.org
+$boost=1,site=english.3angels.ru
+$boost=1,site=ghosttruth.com
 $boost=1,site=gty.org
 $boost=1,site=heartcrymissionary.com
 $boost=1,site=helltruth.com
+$boost=1,site=iafcoe.org
 $boost=1,site=illbehonest.com
 $boost=1,site=kingjamesbibleonline.org
+$boost=1,site=lightbearers.org
+$boost=1,site=pafcoe.org
 $boost=1,site=panoramaofprophecy.com
 $boost=1,site=pinnacleofprophecy.com
+$boost=1,site=prophecyseminars.com
+$boost=1,site=rapturetruth.com
 $boost=1,site=rcg.org
 $boost=1,site=revelationnow.com
+$boost=1,site=sabadobiblico.com
+$boost=1,site=sabbath.org
+$boost=1,site=sabbath.school
+$boost=1,site=sabbathschoolpersonalministries.org
+$boost=1,site=sabbathtruth.com
 $boost=1,site=spurgeon.org
-$boost=1,site=whiteestate.org
+$boost=1,site=spurgeongems.org
+$boost=1,site=ssnet.org
+$boost=1,site=timeline.biblehistory.com
+$boost=1,site=truthaboutdeath.com
+$boost=1,site=universobiblico.com
 $boost=1,site=worldtocome.org
 
+! I am testing this section of code to see if it will provide linked videos in the search results from the specified channels.
+! Maintain Subdirectories (Ranking/Query Match) (Test)
+/@AmazingFacts$boost=1,site=youtube.com
+/@desiringGod$boost=1,site=youtube.com
+/@Heartcrymissionary$boost=1,site=youtube.com
+/@illbehonest$boost=1,site=youtube.com
+/@PastorBatchelor$boost=1,site=youtube.com
+/@RestoredCOG$boost=1,site=youtube.com
 
 
 ! John 11:1-44
